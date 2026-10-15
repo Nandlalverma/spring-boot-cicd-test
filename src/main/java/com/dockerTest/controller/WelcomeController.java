@@ -10,6 +10,6 @@ public class WelcomeController {
 
     @GetMapping("/cicd")
     public String test(){
-        return "welcome to cicd pipeline practic docker";
+        return "welcome to cicd pipeline practic docker ";
     }
 }
